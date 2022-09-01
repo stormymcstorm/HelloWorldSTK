@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="oracle_javacard_sdks/jc211_kit/bin/api.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="stks/0319_700/sim.jar" sourcepath="stks/0319_700/sim">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/merlin/Workspace/github.com/stormymcstorm/HelloWorldSTK/stks/0319_700/docs/"/>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

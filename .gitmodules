@@ -1,0 +1,3 @@
+[submodule "stks"]
+	path = stks
+	url = https://github.com/stormymcstorm/stks.git
